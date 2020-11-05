@@ -1,7 +1,7 @@
 package linkedList;
 
 import java.util.Random;
-
+//hello
 public class AddOfLinkedList {
     public static void main(String[] args) {
         LNode aHead = createLinkedList(9);
