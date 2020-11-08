@@ -1,5 +1,8 @@
 package linkedList;
-//将链表重新排序，eg.12345->15243
+
+/*1.4 如何对链表进行重新排序
+将链表重新排序，eg.12345->15243
+*/
 public class ResortLinkedList {
     public static void main(String[] args) {
         //链表头节点
